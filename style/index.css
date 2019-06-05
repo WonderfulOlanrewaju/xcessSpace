@@ -9,3 +9,7 @@ html,body {
 .details{
   background: #F7F7F9;
 }
+
+.animsition, .animsition-overlay{
+  opacity: 1;
+}
